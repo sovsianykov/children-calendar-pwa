@@ -1,8 +1,21 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #FFF8E7;
+  --foreground: #2D2D2D;
+  --kid-blue: #4A90D9;
+  --kid-green: #27AE60;
+  --kid-pink: #E91E8C;
+  --kid-red: #E74C3C;
+  --kid-orange: #F39C12;
+  --kid-purple: #9B59B6;
+  --kid-yellow: #F1C40F;
+  --kid-bg: #FFF8E7;
+  --kid-card: #FFFFFF;
+  --kid-muted: #F5F0E1;
+  --kid-border: #E8DFC9;
+  --kid-overlay: rgba(0, 0, 0, 0.4);
+  --kid-nav: #FFFFFF;
 }
 
 @theme inline {
