@@ -64,7 +64,7 @@ export default function EventForm({
 
       {/* Form panel */}
       <div
-        className="relative w-full md:max-w-md bg-kid-card rounded-t-3xl md:rounded-3xl p-6 shadow-2xl max-h-[85vh] overflow-y-auto"
+        className="relative w-full md:max-w-md bg-kid-card rounded-t-3xl md:rounded-3xl p-6 shadow-2xl max-h-[95vh] overflow-y-auto"
         onClick={(e) => e.stopPropagation()}
       >
         <div className="flex items-center justify-between mb-5">

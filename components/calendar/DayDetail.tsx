@@ -64,7 +64,7 @@ export default function DayDetail({
 
       {/* Add event button */}
       <Button
-        variant="primary"
+        variant="secondary"
         onClick={onAddEvent}
         className="w-full h-12 rounded-xl text-base font-bold bg-kid-blue hover:bg-kid-blue/90 text-white"
       >

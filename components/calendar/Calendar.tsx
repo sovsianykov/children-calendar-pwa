@@ -73,7 +73,7 @@ export default function Calendar() {
 
           {/* Sheet */}
           <div
-            className="relative bg-kid-card rounded-t-3xl p-5 pb-8 shadow-2xl max-h-[70vh] overflow-y-auto"
+            className="relative bg-kid-card rounded-t-3xl p-5 pb-24 shadow-2xl max-h-[70vh] overflow-y-auto"
             onClick={(e) => e.stopPropagation()}
           >
             {/* Drag handle */}
