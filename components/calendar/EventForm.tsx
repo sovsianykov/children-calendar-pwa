@@ -166,7 +166,7 @@ export default function EventForm({
             <Button
               type="submit"
               variant="primary"
-              className="flex-1 h-12 rounded-xl text-base bg-kid-blue hover:bg-kid-blue/90 text-white"
+              className="flex-1 h-12 rounded-xl text-base bg-kid-blue hover:bg-kid-blue/90 text-white mb-[40px]"
             >
               {editingEvent ? "Save" : "Add"}
             </Button>
