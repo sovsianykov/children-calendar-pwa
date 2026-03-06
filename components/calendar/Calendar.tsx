@@ -26,7 +26,7 @@ export default function Calendar() {
     <div className="w-full max-w-5xl mx-auto px-4 py-6 md:py-10">
       {/* Title */}
       <h1 className="text-2xl md:text-3xl font-bold text-center mb-6 text-kid-purple">
-        My Calendar
+        Seva & Leva Calendar
       </h1>
 
       <div className="flex flex-col md:flex-row gap-6">
