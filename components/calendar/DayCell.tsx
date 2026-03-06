@@ -38,7 +38,7 @@ export default function DayCell({
     >
       <span
         className={`
-          text-xs md:text-sm font-bold leading-none mb-0.5
+          text-xs md:text-sm font-bold p-2 leading-none mb-0.5
           ${today && !isSelected ? "text-kid-orange" : ""}
           ${isSelected ? "text-white" : ""}
         `}
